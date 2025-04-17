@@ -29,8 +29,3 @@ n: 24
 24 divides 24 evenly and is even  
 Sum: 56
 ```
-
-## Why This Is Useful
-	•	Practice with for loops and if statements
-	•	Learn how to use the modulo operator for checking divisibility
-	•	Get comfortable with simple logic building blocks in Python
